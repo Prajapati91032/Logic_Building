@@ -10,4 +10,6 @@ int main() {
     num1 = num1 - num2;
     cout<<"After swapping"<<endl;
     cout<<"num1 "<<num1<<"\n"<<"num2 "<<num2<<endl;
+
+    return 0;
 }

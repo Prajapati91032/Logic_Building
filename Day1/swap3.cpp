@@ -17,4 +17,6 @@ int main()
     cout << "num " << num << "\n"
          << "num1 " << num1 << "\n"
          << "num2 " << num2 << endl;
+
+     return 0;
 }
